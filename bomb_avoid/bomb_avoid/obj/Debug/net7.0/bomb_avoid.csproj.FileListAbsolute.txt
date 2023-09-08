@@ -1,0 +1,15 @@
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/bin/Debug/net7.0/bomb_avoid
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/bin/Debug/net7.0/bomb_avoid.deps.json
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/bin/Debug/net7.0/bomb_avoid.runtimeconfig.json
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/bin/Debug/net7.0/bomb_avoid.dll
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/bin/Debug/net7.0/bomb_avoid.pdb
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.csproj.AssemblyReference.cache
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.AssemblyInfoInputs.cache
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.AssemblyInfo.cs
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.csproj.CoreCompileInputs.cache
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.dll
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/refint/bomb_avoid.dll
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.pdb
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/bomb_avoid.genruntimeconfig.cache
+/Users/adrian/Projects/bomb_avoid/bomb_avoid/obj/Debug/net7.0/ref/bomb_avoid.dll
