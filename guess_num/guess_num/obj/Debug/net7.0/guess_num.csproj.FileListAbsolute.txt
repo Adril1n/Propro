@@ -1,0 +1,15 @@
+/Users/adrian/Projects/guess_num/guess_num/bin/Debug/net7.0/guess_num
+/Users/adrian/Projects/guess_num/guess_num/bin/Debug/net7.0/guess_num.deps.json
+/Users/adrian/Projects/guess_num/guess_num/bin/Debug/net7.0/guess_num.runtimeconfig.json
+/Users/adrian/Projects/guess_num/guess_num/bin/Debug/net7.0/guess_num.dll
+/Users/adrian/Projects/guess_num/guess_num/bin/Debug/net7.0/guess_num.pdb
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.csproj.AssemblyReference.cache
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.AssemblyInfoInputs.cache
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.AssemblyInfo.cs
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.csproj.CoreCompileInputs.cache
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.dll
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/refint/guess_num.dll
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.pdb
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/guess_num.genruntimeconfig.cache
+/Users/adrian/Projects/guess_num/guess_num/obj/Debug/net7.0/ref/guess_num.dll
