@@ -1,0 +1,15 @@
+/Users/adrian/Projects/top20music/top20music/bin/Debug/net7.0/top20music
+/Users/adrian/Projects/top20music/top20music/bin/Debug/net7.0/top20music.deps.json
+/Users/adrian/Projects/top20music/top20music/bin/Debug/net7.0/top20music.runtimeconfig.json
+/Users/adrian/Projects/top20music/top20music/bin/Debug/net7.0/top20music.dll
+/Users/adrian/Projects/top20music/top20music/bin/Debug/net7.0/top20music.pdb
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.csproj.AssemblyReference.cache
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.AssemblyInfoInputs.cache
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.AssemblyInfo.cs
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.csproj.CoreCompileInputs.cache
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.dll
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/refint/top20music.dll
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.pdb
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/top20music.genruntimeconfig.cache
+/Users/adrian/Projects/top20music/top20music/obj/Debug/net7.0/ref/top20music.dll
